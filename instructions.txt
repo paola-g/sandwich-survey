@@ -1,5 +1,5 @@
 When you come across a new sandwich please edit the new_sandwich_sightings.csv by adding a new line.
-Three sandwich sightings have been provided as examples. 
+Four sandwich sightings have been provided as examples. 
 
 Descriptions of the column names in the csv file:
 

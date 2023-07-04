@@ -31,6 +31,18 @@
 - 1 egg
 - handful of salad, to serve
 
+## Caprese Sandwich
+
+### Ingredients
+- 2 slices of your favourite bread
+- Mozzarella
+- Ripe tomatoes
+- Basil leaves
+- Olive oil
+- Oregano (optional)
+
 ### Method
-1. Heat a frying pan on a medium heat and put oven on low. Put the ham and cheese between the bread slices and press to seal, then spread half the butter on the outside of the sandwich on both sides.
-2. Fry in the pan, pressing down with a fish slice, for 1-2 mins until golden then flip and cook the other side. Keep warm in the oven. Melt remaining butter in the pan and fry egg for 1-2 mins until cooked. Top the croque with the egg and serve with salad.
+1. Season the bread with oil and (optionally) oregano. 
+2. Slice tomatoes and mozzarella in thick slices
+3. Interleave tomatoes and mozzarella slices onto a slice of bread
+4. Add a few basil leaves on top and close sandwich
